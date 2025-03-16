@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre] | Desarrollador Web Full Stack
+# 👋 ¡Hola! Soy Jorge Desarrollador Web Full Stack
 
 ---
 
